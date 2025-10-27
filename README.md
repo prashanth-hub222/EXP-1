@@ -43,33 +43,35 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:..
  
 
 
-b.  KCL:
+b.  KCL:..
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:..
  
 
 
-b.  KCL:
+b.  KCL:..
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:..
  
 
 
-b.  KCL:
+b.  KCL:..
 
+record:
 
+[Kvl kcl .pdf](https://github.com/user-attachments/files/23166889/Kvl.kcl.pdf)
 
 RESULT:
 
